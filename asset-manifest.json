@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bichos-red/static/css/main.073c9b0a.css",
-    "main.js": "/bichos-red/static/js/main.f9948b1a.js",
+    "main.js": "/bichos-red/static/js/main.3b46c5e0.js",
     "static/js/787.a849a482.chunk.js": "/bichos-red/static/js/787.a849a482.chunk.js",
     "service-worker.js": "/bichos-red/service-worker.js",
     "index.html": "/bichos-red/index.html",
     "main.073c9b0a.css.map": "/bichos-red/static/css/main.073c9b0a.css.map",
-    "main.f9948b1a.js.map": "/bichos-red/static/js/main.f9948b1a.js.map",
+    "main.3b46c5e0.js.map": "/bichos-red/static/js/main.3b46c5e0.js.map",
     "787.a849a482.chunk.js.map": "/bichos-red/static/js/787.a849a482.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f9948b1a.js"
+    "static/js/main.3b46c5e0.js"
   ]
 }
