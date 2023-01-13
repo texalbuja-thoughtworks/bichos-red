@@ -16,11 +16,10 @@ class BichosRed extends Component {
                     <button onClick={()=> this.switchSrc('escarabajo')} className="btn btn-secondary" type="button">Escarabajo</button>
                 </div>
                 <div className="col-12">
-                    <button onClick={()=> this.switchSrc('Bombus')} className="btn btn-secondary" type="button">Abeja</button>
+                    <button onClick={()=> this.switchSrc('Bombus')} className="btn btn-secondary" type="button">BOMBUS</button>
                 </div>
-                <div className="col-12">
-                    <button onClick={()=> this.switchSrc('cubo')} className="btn btn-secondary" type="button">Cubo</button>
-                </div>
+                
+               
             </div>
         </model-viewer>
     }
