@@ -10,7 +10,7 @@ class BichosRed extends Component {
       }
 
     render() {
-        return <model-viewer src={this.state.asset}  ar-modes="webxr scene-viewer quick-look" camera-controls shadow-intensity="0" autoplay skybox-image="assets/rustig_koppie_puresky_1k" environment-image="assets/rustig_koppie_puresky_1k">
+        return <model-viewer src={this.state.asset}  ar-modes="webxr scene-viewer quick-look" camera-controls shadow-intensity="0" autoplay skybox-image="assets/rustig_koppie_puresky_1k.hdr" environment-image="assets/rustig_koppie_puresky_1k.hdr">
             <div className="row">
                 <div className="col-12">
                     <button onClick={()=> this.switchSrc('escarabajo')} className="btn btn-secondary" type="button">Escarabajo</button>
